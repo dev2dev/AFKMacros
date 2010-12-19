@@ -1,0 +1,1 @@
+This file contains a handy collection of macros that we use in our projects—mostly to manipulate Core Graphics structures, but also for some other random purposes. It's designed to be included in your PCH file so that the macros are made available throughout your app.
